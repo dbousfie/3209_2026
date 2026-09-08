@@ -794,6 +794,482 @@ Western EDIDA Resources:
 - Accessibility (A):
   <https://academicsupport.uwo.ca/accessible_education/index.html>
 
+# Criteria for Evaluation of Written Assignments 
+
+These criteria will be used in evaluation of written work. Please be
+sure to read them carefully.
+
+## Paragraph structure 
+
+Basic paragraph structure is an important part of writing. Failure to
+use basic paragraph structure will result in repetitive, unstructured,
+illogical arguments. Paragraphs help to structure our thought, our
+ability to make claims and provide a framework for writing. The topic
+sentence and concluding sentence of each paragraph should be in your own
+voice (no direct references, quotations or citations). A basic paragraph
+structure should follow this template:
+
+- Topic/introduction, in one or two sentences
+
+- Major point with evidence one or two sentences (one sentence with
+  academic citation and one sentence explaining the relevance in your
+  own words)
+
+- Major point with evidence one or two sentences (one sentence with
+  academic citation and one sentence explaining the relevance in your
+  own words)
+
+- Major point with evidence one or two sentences (one sentence with
+  academic citation and one sentence explaining the relevance in your
+  own words)
+
+- Summarizing sentence of overall significance to the overarching thesis
+  of the paper and
+
+- Concluding sentence which restates topic sentence and bridges to next
+  paragraph.
+
+Failure to use basic paragraph structure throughout your work will
+result in the inability to receive full marks.
+
+These paragraph formatting requirements are not arbitrary. There is a
+specific reason that I want you to use peer-reviewed academic sources, a
+MINIMUM of THREE DIFFERENT ACADEMIC SOURCES per paragraph. WHY?
+
+- First, the difference between opinion and argument is the provision of
+  evidence.
+
+- Second, for an academic argument to have veracity, it needs to have an
+  arm\'s length perspective, it needs to draw on peer-reviewed sources
+  because individual interpretation is prone to error.
+
+- Next, if we have more than one academic source per paragraph if one of
+  those sources is weak or questionable the other two will supplement
+  it.
+
+- Moreover, multiple sources prevent summary or representation of
+  someone else\'s ideas as your own, if you must interpret multiple data
+  sources.
+
+- Finally, academic sources have explanatory frameworks that link them
+  to underlying theoretical concepts and ideas. News sources, data
+  points, and journalism provide evidence without analysis, academic
+  work provides analysis with evidence. If you don\'t have that
+  consistently throughout your writing, you are going to run into
+  problems of the veracity of your claims because they lack
+  substantiation.
+
+## Formatting
+
+All work should be double spaced using 12-point font (even on policy
+briefs). Page numbers should always be included. Never use bullet points
+anywhere -- they condense ideas when I need to see the logic and
+academic argumentation that underpin your claims.
+
+## Quotations
+
+Quotations longer than 4 lines should be indented. Try to avoid
+quotations longer than 4 lines. Assume that I do not read an indented
+4line quotation and make sure the sentence immediately following the
+quotation summarizes its significance to your argument in your own
+words. Never include quotations or sources in your introduction or
+conclusion, your introduction and conclusion should outline the paper
+structure in your own words.
+
+## Citations and Bibliography
+
+We will use the author date system. It keeps footnotes and endnotes to a
+minimum.
+
+- Text references will be short with the Surname, Date and page number
+  (i.e. Žižek 2002: 342).
+
+- Use this formatting everywhere, including sources from our reading
+  list and in the response papers and any written work.
+
+- Works by the same author in the same year should be cited as Žižek
+  2002a, Žižek2002b, etc.
+
+- Et al. can be used by sources with three or more authors. The full
+  list must be in the bibliography.
+
+- If you have more than one source in the same sentence you just include
+  them with a semi-colon in chronological order i.e (Žižek 2002: 345;
+  D'Amelio 2018: 212; Swift 2020: 445)
+
+If any of your sentences, paragraphs, or quotations lack a specific
+foundation, you will not receive credit for those submissions.
+
+Lack of data is a lack of foundation. In the era of LLMs, inaccurate
+citations will be treated as no citation at all. LLMs routinely
+summarize sources without accessing the underlying data. **Failure to
+directly quote sources with quotation marks followed by an explanation
+in your own words will constitute a lack of sufficient citation.**
+**Paraphrasing is no longer sufficient justification for including a
+citation**; you must use specific and precise language, including nouns
+(specific people, places, and things), as generalized summaries of
+sources are often hallucinated, inaccurate, and incomplete when
+suggested by LLMs.. You can paraphrase throughout the work, but it
+cannot serve as a basis of an evidentiary foundation of your claims
+(i.e. you can include it, but it won't be counted as evidentiary
+argument).
+
+## Bibliography (style: Modified Harvard) 
+
+> A bibliography must be included in all written work, it should include
+> the complete details of the work and included an 'Accessed' date if it
+> is an online source.
+>
+> Sample bibliography
+>
+> Bastos, Marco T., and Dan Mercea. \"The Brexit botnet and
+> user-generated hyperpartisan news.\" Social Science Computer Review
+> 37.1 (2019): 38-54.
+>
+> Dobber, T., R. F. Fahy, and FJ Zuiderveen Borgesius. \"The regulation
+> of online political micro-targeting in Europe.\" Internet Policy
+> Review 8.4 (2019): 4.
+>
+> Grieder, William. "How the swindlers of Silicon Valley avoid paying
+> taxes." The Nation, October 17, 2017,
+> <https://www.thenation.com/article/how-the-swindlers-of-silicon-valley-avoid-paying-taxes/>.
+> Accessed August 1, 2020.
+>
+> Gill, Stephen. \"Transnational class formations, European crisis and
+> the silent revolution.\" Critical Sociology 43.4-5 (2017): 641.
+
+## Analytical Content and Paragraph structure:
+
+Higher grades will be given to work that demonstrates the ability to
+interpret, critically assess and develop insights of the material. To
+determine whether or not your argument is analytical, ask yourself \"Am
+I demonstrating to the reader my insights in an academic way?" If you
+are simply summarizing or describing in detail phenomena, your work is
+unlikely to have high analytical content.
+
+> *Helpful signs you are not developing analytical content: Excessive
+> quotes; beginning or ending a paragraph with a quote; short (fewer
+> than 4 sentences) paragraphs; no sources in a long paragraph; lack of
+> similar argument in introduction and conclusion.*
+
+## Development of an Argument:
+
+Higher grades will be given to work that has a clearly stated argument
+and a set of logically developed and reasonably comprehensive points in
+support of that argument. Academic arguments need not be personal
+(though in certain instances they can be -- check with the instructor),
+rather they demonstrate the logical progression of the position you are
+developing. The key here is to attempt to convince your reader of the
+soundness or feasibility of your argument. Nuanced arguments recognize
+obvious criticisms and seek to address them logically. Consistency of an
+argument throughout a paper is important.
+
+> *Helpful signs your argument may be in trouble: Using the same author
+> or quote more than a few times in successive paragraphs; your
+> introduction and conclusion are not similar; you introduce material in
+> the introduction and the conclusion that cannot be found elsewhere;
+> you have quotes in your conclusion; your attempt to address obvious
+> criticisms contradicts your thesis, you adopt multiple theoretical
+> frameworks; you cannot find any sources that agree with your central
+> claims.*
+
+## Grammar, Spelling, and Style: 
+
+Higher grades will be given to written work that is grammatically
+correct and is clearly and accurately written, while lower grades will
+be given to work that is difficult to read or understand due to
+excessive grammatical and/or spelling errors.
+
+> *While different approaches work for different people, it is
+> recommended that you try the following every time you have a written
+> assignment: after completing your assignment, put it away for a while
+> (ideally, for a few days); when you pick it up again, read it
+> carefully, slowly, and aloud (when we are familiar with a paper we
+> tend to skim it during proof-reading, thereby missing errors -- so
+> make sure you are reading it word for word). Mistakes in grammar may
+> not always look wrong, but they usually sound wrong. If you need some
+> help with writing style or grammar, there are many resources available
+> on campus.*
+
+# General
+
+All students must complete all course requirements. Failure to do so
+(e.g., by not handing-in an assignment or by missing an examination
+without due cause) will subject the student to the appropriate
+University regulations. Students must also keep a duplicate copy of
+their assignments.
+
+## Policy on communication
+
+The forums should be your primary place for questions, issues and
+concerns with the course. I strive to be accessible and responsive to
+student inquiries. However, repeated or persistent e-mails/texts/phone
+calls will overload my capacity to respond to all students equally. As
+such, I reserve the right to answer initial questions but forego
+multiple responses or inquires for a 24hour cool-down period. I
+appreciate your understanding in this matter.
+
+## Policy on Children in the classroom^1^ 
+
+"It is my belief that if we want women in academia, that we should also
+expect children to be present in some form. Currently, the university
+does not have a formal policy on children in the classroom. The policy
+described here is thus, a reflection of my own beliefs and commitments
+to student, staff and faculty parents.
+
+All exclusively breastfeeding babies are welcome in class as often as is
+necessary to support the breastfeeding relationship. Because not all
+women can pump sufficient milk, and not all babies will take a bottle
+reliably, I never want students to feel like they have to choose between
+feeding their baby and continuing their education. You and your nursing
+baby are welcome in class anytime.
+
+For older children and babies, I understand that minor illnesses and
+unforeseen disruptions in childcare often put parents in the position of
+having to choose between missing class to stay home with a child and
+leaving him or her with someone you or the child does not feel
+comfortable with. While this is not meant to be a long-term childcare
+solution, occasionally bringing a child to class in order to cover gaps
+in care is perfectly acceptable.
+
+I ask that all students work with me to create a welcoming environment
+that is respectful of all forms of diversity, including diversity in
+parenting status.
+
+In all cases where babies and children come to class, I ask that you sit
+close to the door so that if your little one needs special attention and
+is disrupting learning for other students, you may step outside until
+their need has been met. Non-parents in the class, please reserve seats
+near the door for your parenting classmates.
+
+Finally, I understand that often the largest barrier to completing your
+coursework once you become a parent is the tiredness many parents feel
+in the evening once children have finally gone to sleep. The struggles
+of balancing school, childcare and often another job are exhausting! I
+hope that you will feel comfortable disclosing your student-parent
+status to me. This is the first step in my being able to accommodate any
+special needs that arise. While I maintain the same high expectations
+for all student in my classes regardless of parenting status, I am happy
+to problem solve with you in a way that makes you feel supported as you
+strive for school-parenting balance. Thank you for the diversity you
+bring to our classroom!"
+
+## Policy on non-service animals in the classroom 
+
+Western University established a [Pets and Therapy Animals policy in May
+2020](https://www.uwo.ca/univsec/pdf/policies_procedures/section1/mapp156.pdf)
+that limits the presence of pets in campus buildings. Service and
+therapy animals are permitted inside all Western locations, in
+accordance with accessibility policies, however animals for
+companionship are not allowed.
+
+## Point of View
+
+The readings, class lectures, and my comments in class will suggest a
+particular point of view. This perspective is my own and does not have
+to be yours! I encourage you to disagree with the ideas in the readings
+and lectures as well as the perspectives of your colleagues in the
+course. Please express yourself! A significant part of a university
+education is learning about the complexity of various issues; therefore,
+it is important that we listen and respect one another but we do not
+have to agree. A richer discussion will occur when a variety of
+perspectives are presented in class for discussion.
+
+## Academic Sources
+
+A key aspect of the university experience is developing your ability to
+assess the validity of sources. Academic sources such as those found on
+Google Scholar should be your primary source of arguments, ideas and
+claims made in the course. While it may be appropriate to provide
+anecdotal, non-academic, news, theories from outside the academy as data
+points, all arguments must be situated in triangulated academic
+research. By triangulation (you may see a ∆ on your assignments) this is
+the idea that academic peer review provides a foundation for the
+veracity of the claims being made. if you rely too heavily on one source
+(i.e. that more than 3 footnotes in a row are from the same source ) you
+may be veering towards summary or plagiarism of that source as it lacks
+proper verification from other academics who agree with those
+assessments . Moreover, most sources have implicit or explicit
+frameworks, understandings, biases which you may not be able to assess
+without triangulation. While there is no explicit number of sources
+required on assignments, you will be unable to achieve full marks if you
+do not have academic arguments with academic sources. This is a standard
+expectation of all assignments in this class.
+
+## Discussion Guidelines^2^
+
+In our structured and unstructured discussions and dialogues, we also
+will have many opportunities to explore some challenging, high-stakes
+issues and increase our understandings of different perspectives. Our
+conversations may not always be easy; we sometimes will make mistakes in
+our speaking and our listening; sometimes we will need patience or
+courage or imagination or any number of qualities in combination to
+engage our texts, our classmates, and our own ideas and experiences.
+Always we will need respect for others. Thus, an important secondary aim
+of our course necessarily will be for us to increase our facility with
+the sometimes-difficult conversations that arise inside issues of social
+inequality as we deepen our understandings of multiple perspectives --
+whatever our backgrounds, experiences, or positions.
+
+## Policy on the use of LLMs (AI, ChatGPT, Bard, etc) in the classroom **^3^**
+
+Unless otherwise noted during class activities, you may only use ChatGPT
+or any other Generative technology to *aid* or *nuance* your thinking,
+communication, and learning; but not to *replace* or *subvert* it. See
+the table below for some examples of allowable and non-allowable uses of
+Generative technology in this class (NOTE: This is not an exhaustive
+list of examples). Generative technology may be used to assist in
+assessment throughout the course, if you wish to opt out of the use of
+generative technology, please let me know.
+
+How generative technology may be used in assessment:
+
+1\. Pre-assessment - to provide structural or overall feedback before I
+begin any grading.
+
+2\. Applying rubric - using the rubric from the course outline to apply
+to submitted assignments to assess the degree of compliance before or
+during I complete any grading.
+
+3\. During assessment - to double-check the veracity of claims being
+made about your submission during my assessment of your material.
+
+4\. Post assessment - to find additional examples or instances in your
+submissions to assist in my feedback.
+
+5\. Refining assessment - suggesting forms of constructive criticism,
+actionable items, and overarching themes or issues to assist in your
+assessment.
+
+6\. Checking for unauthorized AI use, following University guidelines
+(and those attached below).
+
+How generative technology will NOT be used in assessment:
+
+No grades will be assigned solely with generative technology at any
+point in this course. Assessment will always be done by the instructor
+in accordance with the course outlines, because of the unpredictability
+and unreliability of current generative technology.
+
+No personal or individual identifiers will ever be included in the
+assessment of material by any generative technology.
+
+Submissions in this course may be examined for AI watermarking using
+anonymized samples processed on campus in accordance with University
+regulations. Watermark detection will not be used to determine
+unauthorized AI use but may indicate such use
+
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| **Example of   | **Why is this Allowed?**                                                                                                 | **Things to Keep in Mind**                                                        |
+| an Allowable   |                                                                                                                          |                                                                                   |
+| Use**          |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Prompting      | This might enhance your thinking by **exposing you to other ideas** than you might come up with on your own.             | It is important to start with **brainstorming your own ideas first** (to aid your |
+| Generative     |                                                                                                                          | creative thinking), rather than letting Generative technology do that initial     |
+| technology to  |                                                                                                                          | work for you. Also, beware that Generative technology might introduce biases      |
+| **generate**   |                                                                                                                          | (tends towards liberal consensus) into the topic when prompted to generate ideas. |
+| **ideas** for  |                                                                                                                          |                                                                                   |
+| a class        |                                                                                                                          |                                                                                   |
+| project.       |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using          | Generative technology writing technologies, like ChatGPT, can provide ideas for how to revise a sentence or word, begin  | Make sure to **get your [thoughts written down                                    |
+| Generative     | a paragraph, or express your thinking more clearly. Used in this way, Generative technology might support the            | first](https://www.criticalinkling.com/p/pedagogy-thinking-and-the-first-draft)** |
+| technology for | development of your communication skills.                                                                                | rather than asking Generative technology to write the first draft. Writing and    |
+| writing        |                                                                                                                          | thinking are interconnected processes, if you prompt Generative technology to     |
+| support (e.g., |                                                                                                                          | write the first draft for you, you are not actively engaging in thinking about    |
+| to improve     |                                                                                                                          | the material.                                                                     |
+| **writing      |                                                                                                                          |                                                                                   |
+| quality,       |                                                                                                                          | NOTE: We also have a wonderful [Writing Center on                                 |
+| clarity, and   |                                                                                                                          | campus](https://writing.uwo.ca/) that provides writing support!                   |
+| expression**). |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using          | Generative technology can offer study tips, provide example text/quiz practice questions, design a personalized study    | Generative technology tools are known for making up information and presenting    |
+| Generative     | guide, design flashcards, give directions for how to complete an assignment, create learning simulations and interactive | biased output. Make sure to double-check the accuracy, credibility, and           |
+| technology as  | scenarios to help you think more deeply about the class content, and provide a rubric so you can self-assess your own    | reliability of any AI-generated information that you use to support your studying |
+| a **study or   | work.                                                                                                                    | or assignment completion.                                                         |
+| assignment     |                                                                                                                          |                                                                                   |
+| aid.**         |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Prompting      | Generative technology could potentially be used in ways that reduce cognitive load (see [Cognitive Load                  | If Generative technology are used in ways that reduce [germane                    |
+| Generative     | Theory](https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf)), | load](https://www.sciencedirect.com/science/article/pii/S0747563224002541) (the   |
+| technology to  | such as breaking material into smaller chunks, summarizing and simplifying material, providing an outline of an article  | cognitive effort required to make connections between new information and prior   |
+| help **make    | to support pre-reading, translating text into your native language, making content more accessible, scaffolding          | knowledge) it can negatively impact learning. For example, if you ask a           |
+| information    | learning, and providing concrete examples.                                                                               | Generative technology technology to automatically summarize a complex academic    |
+| easier to      |                                                                                                                          | article instead of reading and summarizing it yourself, you will miss out on the  |
+| understand**   |                                                                                                                          | opportunity to fully engage with, and critically examine, the author's ideas      |
+| (e.g.,         |                                                                                                                          | (read: [No One is Talking About AI\'s Impact on                                   |
+| explaining     |                                                                                                                          | Reading](https://marcwatkins.substack.com/p/no-one-is-talking-about-ais-impact)). |
+| technical or   |                                                                                                                          | This is a critical skill for college, the workplace, and engaged citizenship!     |
+| academic       |                                                                                                                          |                                                                                   |
+| jargon,        |                                                                                                                          |                                                                                   |
+| providing      |                                                                                                                          |                                                                                   |
+| concrete       |                                                                                                                          |                                                                                   |
+| examples of an |                                                                                                                          |                                                                                   |
+| abstract       |                                                                                                                          |                                                                                   |
+| idea).         |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using AI and   | Generative technology can be used to make learning more accessible and digitally accessible for differently abled        | If you have a self-identified or registered disability, consider how Generative   |
+| Generative     | individuals (e.g., transcripts of recorded audio, closed captions for videos, alt text to describe images for            | technology tools might aid your thinking, communication, and learning.            |
+| technology is  | blind/visually impaired individuals, interpretations of complex visual data).                                            |                                                                                   |
+| recommended    |                                                                                                                          |                                                                                   |
+| **due to       |                                                                                                                          |                                                                                   |
+| different      |                                                                                                                          |                                                                                   |
+| abilities.**   |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+
+  ------------------ ----------------------------------------------------------------------------------------------------------------------------
+  **Example of a     **Why is this NOT Allowed?**
+  Non-Allowable      
+  Use**              
+
+  Prompting a        Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building
+  Generative         community and relationships as well as actively engaging in your own thinking and learning to communicate with others. Using
+  technology         Generative technology for this activity subverts both the social and learning goals of the activity.
+  technology to      
+  **respond to a     
+  discussion forum   
+  prompt** for you.  
+
+  Using a Generative Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best
+  technology         to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your
+  technology (e.g.,  learning and the opportunity to develop your creative communication skills.
+  Slidesgo) to       
+  **design a class   
+  presentation** for 
+  you.               
+
+  Modifying          Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn
+  AI-generated work  more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because the
+  slightly to **make focus is on minor adjustments rather than truly understanding the material.
+  it appear as if    
+  you created it**.  
+
+  Prompting          Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis
+  Generative         output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm
+  technology to      Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using
+  **analyze data for Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or
+  you** and          math machines, they are predictability machines (they guess which words go together to make the most plausible
+  submitting the     human-sounding response).
+  data analysis as   
+  your own.          
+
+  Copying            Please read "[The Case For Not Citing Chatbots As Information
+  AI-generated text  Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)"
+  word for word into and "[Generative AI Has an Intellectual Property
+  your written work, Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original source
+  but **citing it as to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and learning about
+  written by AI**.   that topic and you are giving credit to human authors/artists.
+  ------------------ ----------------------------------------------------------------------------------------------------------------------------
+
+You are responsible for the information you submit based on an AI query
+(for instance, that it does not violate intellectual property laws, or
+contain misinformation or unethical content). Any assignment that is
+found to have used generative AI tools in unauthorized ways can result
+in: a failure to receive full grades, the need to resubmit the
+assignment, need to orally present the assignment in office hours, or a
+failure to complete the requirements of the course. When in doubt about
+permitted usage, please ask for clarification.
+
 Week 1--- Overview and Introduction
 
 Kaarbo, J., & Thies, C. G. (2024). Repositioning foreign policy analysis
@@ -905,9 +1381,8 @@ Implication of Market-Preserving Federalism\' in Ovadia, Jesse Salah,
 and Tim Di Muzio, eds. Energy, capitalism and world order: Toward a new
 agenda in international political economy. Springer, 2017.
 
-Watts, Michael J. \"Righteous oil? Human rights, the oil complex, and
-corporate social responsibility.\" Annu. Rev. Environ. Resour. 30
-(2005): 373-407.
+Leach, Andrew. Pipe Dream Or Panacea?: Evaluating the Case for Oil
+Pipelines in Canada. Institute for Research on Public Policy, 2025.
 
 Week 10 - Canada-China relations
 
@@ -920,6 +1395,10 @@ in provincial foreign policy responses following human rights abuses
 against Canadian citizens.\" Cambridge Review of International Affairs
 (2026): 1-26.
 
+Ong, Lynette H., and Wu Yang. \"A revived Canada-China relations 2.0?:
+Trump's tariff war and its implications for Canada-China bilateral
+trade.\" International Journal (2026): 00207020261452701.
+
 Week 11 - Canada-US Dynamics
 
 Snyder, Robert S. \"The Myth of Trump\'s transactional foreign
@@ -930,9 +1409,9 @@ Jonathan Kent , \"Border Bargains and the \"New\" Sovereignty: Canada-US
 Border Policies from 2001 to 2005 in Perspective\" Geopolitics Vol. 16,
 Iss. 4, 2011
 
-Leuprecht, Christian, and Todd Hataley, eds. Security. Cooperation.
-Governance.: The Canada-United States Open Border Paradox. University of
-Michigan Press, 2023. Chapter one
+Geoffrey Hale "Smart Borders or Thicker borders\" Hale, Geoffrey. So
+near yet so far: The public and hidden worlds of Canada--US relations.
+UBC Press, 2012.
 
 Week 12 - Global Climate Change and Exam Review
 
@@ -946,6 +1425,21 @@ Climate and Environmental Policy: Good Intentions and Staying the
 Course---As Things Get Ugly." In The Palgrave Handbook of Canada in
 International Affairs, edited by Robert W. Murray and Paul Gecelovsky,
 413--432. Cham: Palgrave Macmillan, 2021.
+
+**Duplication of work**
+
+Undergraduate students who submit similar assignments on closely related
+topics in two different
+
+courses must obtain the consent of [both]{.underline} instructors prior
+to the submission of the assignment. If prior approval is not obtained,
+each instructor reserves the right not to accept the assignment.
+
+**Grading and grade adjustments**
+
+The Department of Political Science has a policy that undergraduate
+final course grades will only be rounded to the next whole grade if they
+end at 0.5 or higher; otherwise, they will be rounded down.
 
 **APPENDIX TO UNDERGRADUATE COURSE OUTLINES**
 
