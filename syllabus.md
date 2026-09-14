@@ -1634,3 +1634,10 @@ accessible to you.
 distress, there are several resources here at Western to assist you.
 Please visit http://www.uwo.ca/uwocom/mentalhealth/ for more information
 on these resources and on mental health.
+
+
+Other notes:
+
+Term assignments due dates are variable based on which assignment is chosen - paired debates can be any time throughout the semester, but written assignments have firm dates
+
+Community engaged learning information is available in brightspace
