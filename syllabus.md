@@ -1635,6 +1635,9 @@ distress, there are several resources here at Western to assist you.
 Please visit http://www.uwo.ca/uwocom/mentalhealth/ for more information
 on these resources and on mental health.
 
+Question: can I do the same media as someone else for the media assessment even if they've signed up for the same movie
+Answer: yes there's no restrictions on the number of students that can do the same media
+
 
 Other notes:
 
