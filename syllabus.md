@@ -273,6 +273,152 @@ specific and precise language, including nouns (specific people, places,
 and things), as generalized summaries of sources are often hallucinated,
 inaccurate, and incomplete when suggested by LLMs.
 
+## General information about missed coursework
+
+Attendance and Scheduled Participation Requirements
+
+This course does not assign a separate attendance grade. However,
+regular attendance is required because many course requirements depend
+on scheduled in-class participation, including discussion, group work,
+peer assessment, presentations, and other weekly engagement activities.
+
+Participation components are time-bound and must be completed during the
+week or class meeting in which they are assigned. Students may not
+replace missed in-class participation, peer assessment, presentation
+work, or group activity with after-the-fact written submissions unless
+an alternative has been approved in advance or is required through an
+approved academic consideration or accommodation process.
+
+Weeks 7, 8, 9, 10 and 11 are designated participation-attendance weeks.
+Attendance in these weeks counts as a form of participation because the
+scheduled class activities are part of the course's participation-based
+learning requirements.
+
+To encourage consistent participation across the term, students may
+offset one missed participation-attendance week from Weeks 7--11 if they
+have two recorded attendances from other eligible weeks in the course.
+Eligible offset weeks are Weeks 1--6 and Week 12. Two recorded
+attendances in those eligible weeks may be used to offset one missed
+participation-attendance week from Weeks 7--11.
+
+This offset applies only to the participation-attendance requirement. It
+does not replace scheduled other assigned in-class components that must
+occur during a specific class meeting. Students who sign up for
+presentation, peer-assessment, or in-class activity weeks are
+responsible for completing those components at the scheduled time.
+Submitting materials after the scheduled class does not replace the
+missed in-class component and does not guarantee that the work will be
+marked.
+
+**In a 12-week course, missing three or more scheduled classes will
+normally be considered a substantial absence.** A substantial absence
+may prevent a student from completing the participation-based,
+peer-assessment, or in-class requirements of the course. In such cases,
+the student may be unable to receive credit for affected components,
+even where other written work has been submitted.
+
+Students must familiarize themselves with the *University Policy on
+Academic Consideration -- Undergraduate Students in First Entry
+Programs* posted on the Academic Calendar:
+
+<https://www.uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf>,
+
+This policy does not apply to requests for Academic Consideration
+submitted for attempted or completed work, whether online or in person.
+
+The policy also does not apply to students experiencing longer-term
+impacts on their academic responsibilities. These students should
+consult [Accessible
+Education](http://academicsupport.uwo.ca/accessible_education/).
+
+For procedures on how to submit Academic Consideration requests, please
+see the information posted on the Office of the Registrar's webpage:
+
+<https://registrar.uwo.ca/academics/academic_considerations/>
+
+All requests for Academic Consideration must be made within 48 hours
+after the assessment date or submission deadline.
+
+All Academic Consideration requests must include supporting
+documentation; however, recognizing that formal documentation may not be
+available in some extenuating circumstances, the policy allows students
+to make [one]{.underline} Academic Consideration request without
+supporting documentation in this course. However, the following
+assessments are excluded from this, and therefore always require formal
+supporting documentation:
+
+Term Assignment
+
+When a student *[mistakenly]{.underline}* submits their
+[one]{.underline} allowed Academic Consideration request without
+supporting documentation for the assessments listed above or those in
+the Coursework with Assessment Flexibility section below, [the request
+cannot be recalled and reapplied]{.underline}. This privilege is
+forfeited.
+
+Coursework with Assessment Flexibility
+
+By policy, instructors may deny Academic Consideration requests for the
+following assessments with built-in flexibility.
+
+Flexible Completion assignments:
+
+Weekly participation. This course has 12 weekly participation
+assignments. Should extenuating circumstances arise, students do not
+need to request Academic Consideration for the first 2 missed weekly
+participations. Academic consideration requests will be denied for the
+first 2 missed weekly participation assignments.
+
+Religious Accommodation
+
+When conflicts with a religious holiday that requires an absence from
+the University or prohibits certain activities, students should request
+an accommodation for their absence in writing to the course instructor
+and/or the Academic Advising office of their Faculty of Registration.
+This notice should be made as early as possible but not later than two
+weeks prior to the writing or the examination (or one week prior to the
+writing of the test).
+
+Please visit the Diversity Calendars posted on our university's EDID
+website for the recognized religious holidays:
+[https://www.edi.uwo.ca](https://www.edi.uwo.ca/)
+
+Accommodation Policies
+
+Students with disabilities are encouraged to contact Accessible
+Education, which provides recommendations for accommodation based on
+medical documentation or psychological and cognitive testing. The policy
+on Academic Accommodation for Students with Disabilities can be found
+at:
+<https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic%20Accommodation_disabilities.pdf>
+
+Academic Policies- The website for Registrar Services is
+<https://www.registrar.uwo.ca/>.
+
+In accordance with policy,
+<https://www.uwo.ca/univsec/pdf/policies_procedures/section1/mapp113.pdf>
+
+the centrally administered e-mail account provided to students will be
+considered the individual's official university e-mail address. It is
+the responsibility of the account holder to ensure that e-mail received
+from the University at their official university address is attended to
+in a timely manner.
+
+Scholastic offences are taken seriously and students are directed to
+read the appropriate policy, specifically, the definition of what
+constitutes a Scholastic Offence, at the following Web site:
+
+<https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf>
+
+All required papers may be subject to submission for textual similarity
+review to the commercial plagiarism detection software under license to
+the University for the detection of plagiarism. All papers submitted for
+such checking will be included as source documents in the reference
+database for the purpose of detecting plagiarism of papers subsequently
+submitted to the system. Use of the service is subject to the licensing
+agreement, currently between The University of Western Ontario and
+Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
+
 ## Weekly Participation 15% - regardless of which path you choose, all students must complete weekly participation. 
 
 All weekly participation assignments are pass/fail unless you designate
@@ -1634,6 +1780,7 @@ accessible to you.
 distress, there are several resources here at Western to assist you.
 Please visit http://www.uwo.ca/uwocom/mentalhealth/ for more information
 on these resources and on mental health.
+
 
 Question: can I do the same media as someone else for the media assessment even if they've signed up for the same movie
 Answer: yes there's no restrictions on the number of students that can do the same media
