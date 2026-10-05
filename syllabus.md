@@ -1785,6 +1785,9 @@ on these resources and on mental health.
 Question: can I do the same media as someone else for the media assessment even if they've signed up for the same movie
 Answer: yes there's no restrictions on the number of students that can do the same media
 
+Question: where are the prompts for the written responses?
+Answer: the prompts are next to the readings in the Google Sheets
+
 
 Other notes:
 
