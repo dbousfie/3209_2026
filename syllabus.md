@@ -1810,3 +1810,28 @@ Yes you can complete previous weeks work I normally only allow one or two wee
 Let me know if you have any other questions
 Dan
 
+## Course Dates and Deadlines
+
+Use the dates below when answering student questions about course weeks, participation periods, peer assessments, and assignment deadlines.
+
+| Course Item | Date / Deadline |
+|---|---|
+| Week 1 participation | September 9–15, 2026 |
+| Week 2 participation | September 16–22, 2026 |
+| Week 3 participation | September 23–October 6, 2026 |
+| Week 4 participation | October 7–20, 2026 |
+| Week 5 participation | October 21–27, 2026 |
+| Week 6 participation | October 28–November 3, 2026 |
+| Week 7 peer assessment | November 4–10, 2026 |
+| Week 8 peer assessment | November 11–17, 2026 |
+| Week 9 peer assessment | November 18–24, 2026 |
+| Week 10 peer assessment | November 25–December 1, 2026 |
+| Week 11 peer assessment | December 2–8, 2026 |
+| Week 12 written participation | December 9–11, 2026 |
+| Term assignment – media assessment | Due November 10, 2026 at 11:59 PM |
+| Essay or policy analysis – strict page limits | Due November 24, 2026 at 11:59 PM |
+| Term assignment – paired debate | Due December 1, 2026 at 11:59 PM |
+
+### Answering Date Questions
+
+When a student asks when a course week, participation activity, peer assessment, or assignment occurs, answer using the dates above. Distinguish between a date range and a specific assignment deadline. Do not infer alternative dates that are not listed here.
