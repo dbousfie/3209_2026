@@ -1788,6 +1788,9 @@ Answer: yes there's no restrictions on the number of students that can do the sa
 Question: where are the prompts for the written responses?
 Answer: the prompts are next to the readings in the Google Sheets
 
+Question: where can I find the syllabus Checker in brightspace?
+Answer: the syllabus Checker that checks your weekly paragraph response structures is available here https://westernu.brightspace.com/d2l/le/lessons/200695/topics/3982363
+
 
 Other notes:
 
