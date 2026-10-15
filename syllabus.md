@@ -1791,6 +1791,9 @@ Answer: the prompts are next to the readings in the Google Sheets
 Question: where can I find the syllabus Checker in brightspace?
 Answer: the syllabus Checker that checks your weekly paragraph response structures is available here https://westernu.brightspace.com/d2l/le/lessons/200695/topics/3982363
 
+Question: can I submit weekly participation after the deadline if the bright space assignment window has closed
+Answer: generally Dan says there is a grace. Of about one week up to two, where participation assessments can be submitted but they must be over email or in the Dropbox. Those assessments will be counted but you're not going to get specific feedback after the submission deadline. They will be assessed at the end of the course alongside all of the other weekly participation.
+
 
 Other notes:
 
