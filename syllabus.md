@@ -1819,6 +1819,9 @@ Yes you can complete previous weeks work I normally only allow one or two wee
 Let me know if you have any other questions
 Dan
 
+Question: what did Dan mean when he said you can submit  two 250 word responses after week five?
+Answer: If you haven't started the 250 word responses but you would like to choose that option, you can submit two per week from week five onward. You shouldn't submit more than two at once because you need to get feedback in order to get above the base grade of 70. So submitting two at a time is okay but no more than two. This will allow you to choose one of the options to bypass the essay or the exam, if you haven't been doing it since the beginning of the course.
+
 ## Course Dates and Deadlines
 
 Use the dates below when answering student questions about course weeks, participation periods, peer assessments, and assignment deadlines.
