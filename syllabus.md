@@ -709,7 +709,7 @@ Assess the following before choosing one.**
 
 Students will choose a current or past Foreign Policy, and critically
 assess the policy for key actors, context, assumptions and implications.
-This is an eight page (2000 word (+/- 10% strictly enforced) +
+This is an eight page (2000 word (+/- 10% strictly enforced)  (update November 15, 2026 – students who complete the written responses or the written media assessment should aim for a paper of 1500 words in length +/- 10%) plus
 bibliography) assignment that should provide a clear analysis and
 perspective of the foreign policy, based on government documents or
 publicly available information. A sample of the format requirements may
