@@ -751,7 +751,7 @@ Students will prepare an essay of 2000 words in length ((+/- 10%
 strictly enforced) excluding bibliography) that presents a clear and
 detailed argument about a Foreign Policy, issue, event or actor.
 Students will select a specific issue/event or debate that deals with
-Foreign Policy and develop their argument using academic sources.
+Foreign Policy and develop their argument using a majority of course resources - this was updated on November 16th, it needs to be clear that they need to primarily use course resources.
 Students should have a ***clear thesis*** advocating their approach for
 its greater analytic/explanatory value. (See 'Criteria for Evaluation of
 Written Assignments' below). Please note that papers must be submitted
